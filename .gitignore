@@ -1,0 +1,9 @@
+#ignore the env
+venv/
+
+#ignore checkpoints 
+.ipynb_checkpoints/
+*..ipynb
+
+# ignore the sprecific raw data folder
+data/raw
