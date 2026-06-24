@@ -32,12 +32,7 @@ data/processed/
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-# =====================================
-# OUTPUTS
-# =====================================
 
-outputs/models/
-outputs/plots/
 
 # Keep folder structure if needed
 !outputs/models/.gitkeep
