@@ -1,32 +1,32 @@
-participant_id,age,gender,hand,MMSE,NAART,disease_duration,rl_deficits,notes,label
-sub-hc1,54,1,r,30,48,3.0,unknown,unknown,0
-sub-hc2,50,1,r,30,55,3.0,unknown,unknown,0
-sub-pd3,52,1,r,29,44,9.0,R,unknown,1
-sub-hc4,50,1,r,30,52,3.0,unknown,unknown,0
-sub-pd5,67,1,r,29,48,2.0,"No clear side, perhaps more L",unknown,1
-sub-pd6,62,1,r,30,42,8.0,"L OFF meds, more R ON meds",Used preprocessed data from EEGLAB .mat file instead of raw data for pd on,1
-sub-hc7,54,1,r,26,48,3.0,unknown,unknown,0
-sub-hc8,71,1,r,29,41,3.0,unknown,unknown,0
-sub-pd9,55,1,r,28,50,12.0,R,unknown,1
-sub-hc10,59,1,r,29,51,3.0,unknown,unknown,0
-sub-pd12,74,0,r,26,53,1.0,unknown,unknown,1
-sub-pd11,71,1,r,30,52,1.0,R worse off,unknown,1
-sub-pd13,62,0,r,29,47,2.0,R slightly worse,unknown,1
-sub-pd14,63,0,r,28,35,2.0,R worse off,unknown,1
-sub-pd16,74,0,r,29,56,2.0,"Started on left, noticed left side worse",Used preprocessed data from EEGLAB .mat file instead of raw data for pd on,1
-sub-pd17,55,0,r,30,40,2.0,started on R; Right slightly worse,unknown,1
-sub-hc18,57,0,r,30,57,3.0,unknown,unknown,0
-sub-pd19,69,1,r,29,43,6.0,"started on Left side, left is worse",unknown,1
-sub-hc20,68,0,r,30,58,3.0,unknown,unknown,0
-sub-hc21,72,0,r,28,33,3.0,unknown,Subject was missing reading glasses,0
-sub-pd22,47,0,r,30,51,6.0,"started on Left side, left is worse",unknown,1
-sub-pd23,66,1,r,29,34,3.0,"started on L, left is worse",unknown,1
-sub-hc24,61,1,r,30,57,3.0,unknown,unknown,0
-sub-hc25,74,1,r,30,49,3.0,unknown,unknown,0
-sub-pd26,71,1,r,29,51,3.0,"started L leg tremor, then moved to right arm tremor, but left leg stopped",unknown,1
-sub-pd28,61,0,r,29,46,9.0,"started on right, but left is worse",unknown,1
-sub-hc29,60,1,r,29,45,3.0,unknown,"Claims to have dyslexia, and history of slower reaction times",0
-sub-hc30,69,0,r,29,52,3.0,unknown,unknown,0
-sub-hc31,82,0,r,28,50,3.0,unknown,unknown,0
-sub-hc32,60,0,r,29,37,3.0,unknown,unknown,0
-sub-hc33,75,0,r,30,53,3.0,unknown,unknown,0
+participant_id,age,gender,hand,MMSE,NAART,disease_duration,rl_deficits,notes,label,season_name,season
+sub-hc1,54,1,0,30,48,3.0,0,unknown,0,winter,0
+sub-hc2,50,1,0,30,55,3.0,0,unknown,0,spring,1
+sub-pd3,52,1,0,29,44,9.0,3,unknown,1,summer,2
+sub-hc4,50,1,0,30,52,3.0,0,unknown,0,monsoon,3
+sub-pd5,67,1,0,29,48,2.0,1,unknown,1,winter,0
+sub-pd6,62,1,0,30,42,8.0,2,Used preprocessed data from EEGLAB .mat file instead of raw data for pd on,1,spring,1
+sub-hc7,54,1,0,26,48,3.0,0,unknown,0,summer,2
+sub-hc8,71,1,0,29,41,3.0,0,unknown,0,monsoon,3
+sub-pd9,55,1,0,28,50,12.0,3,unknown,1,winter,0
+sub-hc10,59,1,0,29,51,3.0,0,unknown,0,spring,1
+sub-pd12,74,0,0,26,53,1.0,0,unknown,1,summer,2
+sub-pd11,71,1,0,30,52,1.0,3,unknown,1,monsoon,3
+sub-pd13,62,0,0,29,47,2.0,3,unknown,1,winter,0
+sub-pd14,63,0,0,28,35,2.0,3,unknown,1,spring,1
+sub-pd16,74,0,0,29,56,2.0,1,Used preprocessed data from EEGLAB .mat file instead of raw data for pd on,1,summer,2
+sub-pd17,55,0,0,30,40,2.0,2,unknown,1,monsoon,3
+sub-hc18,57,0,0,30,57,3.0,0,unknown,0,winter,0
+sub-pd19,69,1,0,29,43,6.0,1,unknown,1,spring,1
+sub-hc20,68,0,0,30,58,3.0,0,unknown,0,summer,2
+sub-hc21,72,0,0,28,33,3.0,0,Subject was missing reading glasses,0,monsoon,3
+sub-pd22,47,0,0,30,51,6.0,1,unknown,1,winter,0
+sub-pd23,66,1,0,29,34,3.0,1,unknown,1,spring,1
+sub-hc24,61,1,0,30,57,3.0,0,unknown,0,summer,2
+sub-hc25,74,1,0,30,49,3.0,0,unknown,0,monsoon,3
+sub-pd26,71,1,0,29,51,3.0,1,unknown,1,winter,0
+sub-pd28,61,0,0,29,46,9.0,1,unknown,1,spring,1
+sub-hc29,60,1,0,29,45,3.0,0,"Claims to have dyslexia, and history of slower reaction times",0,summer,2
+sub-hc30,69,0,0,29,52,3.0,0,unknown,0,monsoon,3
+sub-hc31,82,0,0,28,50,3.0,0,unknown,0,winter,0
+sub-hc32,60,0,0,29,37,3.0,0,unknown,0,spring,1
+sub-hc33,75,0,0,30,53,3.0,0,unknown,0,summer,2

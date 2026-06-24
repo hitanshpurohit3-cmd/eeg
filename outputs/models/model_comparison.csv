@@ -1,5 +1,5 @@
 Model,Train Accuracy,Test Accuracy,Gap
-RandomForest,0.8889,0.4,0.4889
-SVM,0.6389,0.7,-0.0611
-LogisticRegression,0.6667,0.7,-0.0333
-KNN,0.7222,0.4,0.3222
+GradientBoosting,1.0,0.9,0.1
+SVM,0.9722,0.9,0.0722
+LogisticRegression,0.9722,0.9,0.0722
+RidgeClassifier,0.9444,0.6,0.3444
